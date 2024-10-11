@@ -25,7 +25,7 @@ def main():
         
         # Preprocesar los datos cargados
         if 'Unnamed: 0' in data.columns:
-            data = data.drop(columns=['Unnamed 0'])
+            data = data.drop(columns=['Unnamed: 0'])
         metabolite_columns = [f'METABOLITE {i}' for i in range(15)]
         data[metabolite_columns] = data[metabolite_columns].replace(',', '.', regex=True)
         data[metabolite_columns] = data[metabolite_columns].apply(pd.to_numeric, errors='coerce')
