@@ -1,3 +1,6 @@
+
+![App Interface](logo.png)
+
 # CDSS
 
 This repository contains a web-based application built with Streamlit, designed to assist healthcare professionals in diagnosing tumor types quickly and easily based on metabolite concentration data. This tool enables doctors to classify tumors by leveraging data-driven insights, facilitating faster diagnostic decisions.
