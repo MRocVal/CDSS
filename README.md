@@ -1,5 +1,5 @@
 
-![App Interface](logo.png)
+![App Interface](imagen_cabezera.jpg)
 
 # CDSS
 
