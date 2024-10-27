@@ -20,7 +20,7 @@ The goal of this application is to streamline the tumor classification process, 
 
 ## Access the Application
 
-The application can be accessed and used directly via the following Streamlit link: [Streamlit App Link](INSERT_YOUR_LINK_HERE).
+The application can be accessed and used directly via the following Streamlit link: [Streamlit App Link](https://cdss-byopsi.streamlit.app).
 
 ---
 
